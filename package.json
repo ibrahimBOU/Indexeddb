@@ -1,6 +1,24 @@
 {
-    "dependencies": {
-      "idb": "^7.1.0"
-    }
-  }
-  
+  "dependencies": {
+    "express": "^4.18.2",
+    "idb": "^7.1.0"
+  },
+  "name": "indexeddbtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimBOU/Indexeddbtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimBOU/Indexeddbtest/issues"
+  },
+  "homepage": "https://github.com/ibrahimBOU/Indexeddbtest#readme",
+  "description": ""
+}
